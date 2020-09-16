@@ -5,8 +5,8 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                <Timer count={25000} step={1000} />
-                <Timer count={50000} step={1000} autostart
+                <Timer count={27000} step={1000}/>
+                <Timer count={20000} step={1000} autostart
                     timerStart={() => console.log("Timer started")}
                     timerStop={() => console.log("Timer stopped")}
                     timerReset={() => console.log("Timer restarted")}
