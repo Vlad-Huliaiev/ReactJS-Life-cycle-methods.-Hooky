@@ -13,16 +13,13 @@ export default class Timer extends Component {
             count: count,
         });
         this.autoStartTimer();
-
     }
-
 
     autoStartTimer = () => {
         if(this.props.autostart){
             this.startTimer();
         }
     }
-
 
     startTimer = () => {
         this.setState({
@@ -37,7 +34,8 @@ export default class Timer extends Component {
             }
         });
         if(i === 1){
-            clearInterval(this.interval);
+             this.componentWillUnmount();
+            if(this.props.timerStart) { this.props.timerOut() }
         }
         i--;
         }, this.props.step);
@@ -51,7 +49,9 @@ export default class Timer extends Component {
 
     pauseTimer = () => {
         this.componentWillUnmount();
-
+            this.setState({
+                isActive: false
+            })
         //Timer stopped
         if(this.props.timerStop) {this.props.timerStop()}
     };
@@ -60,6 +60,7 @@ export default class Timer extends Component {
     resetTimer = () => {
         const {count} = this.props;
         this.setState({
+            isActive: false,
             count: count
         });
 
@@ -74,12 +75,8 @@ export default class Timer extends Component {
         if(this.props.timerReset) {this.props.timerReset()}
     };
 
-
     componentWillUnmount(){
         clearInterval(this.interval);
-        this.setState({
-            isActive: false
-        })
     }
 
 
