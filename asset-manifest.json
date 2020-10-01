@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactJS-Life-cycle-methods.-Hooky/static/css/main.7b6456c5.chunk.css",
-    "main.js": "/ReactJS-Life-cycle-methods.-Hooky/static/js/main.7a8b8718.chunk.js",
-    "main.js.map": "/ReactJS-Life-cycle-methods.-Hooky/static/js/main.7a8b8718.chunk.js.map",
+    "main.js": "/ReactJS-Life-cycle-methods.-Hooky/static/js/main.9fb111d3.chunk.js",
+    "main.js.map": "/ReactJS-Life-cycle-methods.-Hooky/static/js/main.9fb111d3.chunk.js.map",
     "runtime-main.js": "/ReactJS-Life-cycle-methods.-Hooky/static/js/runtime-main.5330ee8e.js",
     "runtime-main.js.map": "/ReactJS-Life-cycle-methods.-Hooky/static/js/runtime-main.5330ee8e.js.map",
     "static/js/2.912f3cfe.chunk.js": "/ReactJS-Life-cycle-methods.-Hooky/static/js/2.912f3cfe.chunk.js",
     "static/js/2.912f3cfe.chunk.js.map": "/ReactJS-Life-cycle-methods.-Hooky/static/js/2.912f3cfe.chunk.js.map",
     "index.html": "/ReactJS-Life-cycle-methods.-Hooky/index.html",
-    "precache-manifest.50599049f11014ad92ba12aa3c442ed2.js": "/ReactJS-Life-cycle-methods.-Hooky/precache-manifest.50599049f11014ad92ba12aa3c442ed2.js",
+    "precache-manifest.e1a15ba8206e61be9bfb6efe10c90658.js": "/ReactJS-Life-cycle-methods.-Hooky/precache-manifest.e1a15ba8206e61be9bfb6efe10c90658.js",
     "service-worker.js": "/ReactJS-Life-cycle-methods.-Hooky/service-worker.js",
     "static/css/main.7b6456c5.chunk.css.map": "/ReactJS-Life-cycle-methods.-Hooky/static/css/main.7b6456c5.chunk.css.map",
     "static/js/2.912f3cfe.chunk.js.LICENSE.txt": "/ReactJS-Life-cycle-methods.-Hooky/static/js/2.912f3cfe.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5330ee8e.js",
     "static/js/2.912f3cfe.chunk.js",
     "static/css/main.7b6456c5.chunk.css",
-    "static/js/main.7a8b8718.chunk.js"
+    "static/js/main.9fb111d3.chunk.js"
   ]
 }
