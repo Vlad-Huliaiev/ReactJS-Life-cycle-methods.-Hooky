@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ReactJS-Life-cycle-methods.-Hooky/precache-manifest.50599049f11014ad92ba12aa3c442ed2.js"
+  "/ReactJS-Life-cycle-methods.-Hooky/precache-manifest.e1a15ba8206e61be9bfb6efe10c90658.js"
 );
 
 self.addEventListener('message', (event) => {

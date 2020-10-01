@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6237d3a4dce37f1dc59e55df7ff864f1",
+    "revision": "cb02f508f8b5c76803ed5b53a85c4161",
     "url": "/ReactJS-Life-cycle-methods.-Hooky/index.html"
   },
   {
-    "revision": "0a92291ccfb4857d3523",
+    "revision": "a234f1d03ea235653eea",
     "url": "/ReactJS-Life-cycle-methods.-Hooky/static/css/main.7b6456c5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactJS-Life-cycle-methods.-Hooky/static/js/2.912f3cfe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a92291ccfb4857d3523",
-    "url": "/ReactJS-Life-cycle-methods.-Hooky/static/js/main.7a8b8718.chunk.js"
+    "revision": "a234f1d03ea235653eea",
+    "url": "/ReactJS-Life-cycle-methods.-Hooky/static/js/main.9fb111d3.chunk.js"
   },
   {
     "revision": "68835a52ca8fc0145ad1",
